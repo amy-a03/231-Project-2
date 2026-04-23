@@ -1,0 +1,715 @@
+{
+  "sources": [
+    {
+      "path": "articles/agoda-maldive-islands-hotels.md",
+      "filename": "agoda-maldive-islands-hotels.md",
+      "category": "planning",
+      "hash": "d6888b5ae1981f233a86fd06faa16d976c5762d9761a77fd6bddfcda8cd4705b",
+      "size_bytes": 1779,
+      "word_count": 224,
+      "ingested_at": "2026-04-21T12:56:10.420529"
+    },
+    {
+      "path": "articles/agoda-maldives-district-hotels.md",
+      "filename": "agoda-maldives-district-hotels.md",
+      "category": "planning",
+      "hash": "12bbab1a2d9ca325f57e605700b7533553350eeb77a9190e6c921ac816327bbd",
+      "size_bytes": 1974,
+      "word_count": 268,
+      "ingested_at": "2026-04-21T12:56:10.420809"
+    },
+    {
+      "path": "articles/atoll-transfer-faq.md",
+      "filename": "atoll-transfer-faq.md",
+      "category": "planning",
+      "hash": "23482c9af7cd0898a8691f0e1acc9787631cd5e98192c6114c56ac9c0016828e",
+      "size_bytes": 1217,
+      "word_count": 162,
+      "ingested_at": "2026-04-21T12:56:10.420991"
+    },
+    {
+      "path": "articles/atoll-transfer-velana-international-airport.md",
+      "filename": "atoll-transfer-velana-international-airport.md",
+      "category": "practical",
+      "hash": "2cc4fc6fc7e1dc5493b9304e01c5bbac91f732d933f3ab40d253c6317513b76b",
+      "size_bytes": 1118,
+      "word_count": 125,
+      "ingested_at": "2026-04-21T12:56:10.421165"
+    },
+    {
+      "path": "articles/atolls-a-dozen-ways-to-live-like-a-local.md",
+      "filename": "atolls-a-dozen-ways-to-live-like-a-local.md",
+      "category": "resorts",
+      "hash": "4f193da29c169b780649b6cd70ab203bf980ee5df7c106541617598b5ff13849",
+      "size_bytes": 1263,
+      "word_count": 162,
+      "ingested_at": "2026-04-21T12:56:10.421346"
+    },
+    {
+      "path": "articles/atolls-addu-gastronomy.md",
+      "filename": "atolls-addu-gastronomy.md",
+      "category": "atolls",
+      "hash": "9fcf32ee666a913e0c54058818aad91cdbb39113df9d4ea92c94dfaf732bbda5",
+      "size_bytes": 1250,
+      "word_count": 169,
+      "ingested_at": "2026-04-21T12:56:10.421522"
+    },
+    {
+      "path": "articles/atolls-ari-atoll-connectivity.md",
+      "filename": "atolls-ari-atoll-connectivity.md",
+      "category": "atolls",
+      "hash": "7828eb2954d2c1269f9e3aae71610cb7d342fdccaafeca782f7081c37c802c2a",
+      "size_bytes": 1165,
+      "word_count": 138,
+      "ingested_at": "2026-04-21T12:56:10.421700"
+    },
+    {
+      "path": "articles/atolls-guest-house-culture-in-maldives.md",
+      "filename": "atolls-guest-house-culture-in-maldives.md",
+      "category": "resorts",
+      "hash": "1a128844cdb0ea3b8e9fb23001a1c3351ddc9783997931fb41d50f98f5d60fdb",
+      "size_bytes": 1275,
+      "word_count": 159,
+      "ingested_at": "2026-04-21T12:56:10.421900"
+    },
+    {
+      "path": "articles/audley-best-time-to-visit-maldives.md",
+      "filename": "audley-best-time-to-visit-maldives.md",
+      "category": "planning",
+      "hash": "011b73deae9c5bc9b3d5f9a372e2c361046ae64dca7bb081a44d4d075babf996",
+      "size_bytes": 5155,
+      "word_count": 830,
+      "ingested_at": "2026-04-21T12:56:10.422424"
+    },
+    {
+      "path": "articles/banyan-tree-vabbinfaru-sustainability.md",
+      "filename": "banyan-tree-vabbinfaru-sustainability.md",
+      "category": "resorts",
+      "hash": "871b4eba793f5008c3afd87916308bd6dea8df8ff3f36536756f3c89143c1cb1",
+      "size_bytes": 1815,
+      "word_count": 250,
+      "ingested_at": "2026-04-21T12:56:10.422582"
+    },
+    {
+      "path": "articles/big-fish-network-maldives-whale-shark-research.md",
+      "filename": "big-fish-network-maldives-whale-shark-research.md",
+      "category": "ecology",
+      "hash": "efb748de796dd086d6571bf8c277b723b3b47d9400b54abf886d9f148e3b4abc",
+      "size_bytes": 1382,
+      "word_count": 180,
+      "ingested_at": "2026-04-21T12:56:10.422754"
+    },
+    {
+      "path": "articles/bluewater-liveaboard-diving-guide-2026.md",
+      "filename": "bluewater-liveaboard-diving-guide-2026.md",
+      "category": "diving",
+      "hash": "2c54e6e4baaafb901328d5cde0363ca985f60b7fb30240f2fe316558e2a22314",
+      "size_bytes": 2690,
+      "word_count": 375,
+      "ingested_at": "2026-04-21T12:56:10.422936"
+    },
+    {
+      "path": "articles/booking-maldives-resorts.md",
+      "filename": "booking-maldives-resorts.md",
+      "category": "resorts",
+      "hash": "1ee5d2574933f09ddf02e8fecf5acfab08a82f620b4828225c425a1622b5cedd",
+      "size_bytes": 2994,
+      "word_count": 294,
+      "ingested_at": "2026-04-21T12:56:10.423118"
+    },
+    {
+      "path": "articles/budget-maldives-local-islands-and-guesthouses.md",
+      "filename": "budget-maldives-local-islands-and-guesthouses.md",
+      "category": "planning",
+      "hash": "a0334705c02e7c1771ea70869c416ba0e28a36dde01d1e2475844a9745c24cd4",
+      "size_bytes": 2755,
+      "word_count": 392,
+      "ingested_at": "2026-04-21T12:56:10.423335"
+    },
+    {
+      "path": "articles/club-med-best-time-to-visit-maldives.md",
+      "filename": "club-med-best-time-to-visit-maldives.md",
+      "category": "planning",
+      "hash": "cf599fdaf2fdd41208692e380b2ad3031d18bf19a39d1cf661b7335719bb7292",
+      "size_bytes": 3577,
+      "word_count": 528,
+      "ingested_at": "2026-04-21T12:56:10.423539"
+    },
+    {
+      "path": "articles/conde-nast-traveler-best-hotels-in-the-maldives.md",
+      "filename": "conde-nast-traveler-best-hotels-in-the-maldives.md",
+      "category": "resorts",
+      "hash": "03c97b93a44a4297a6e56675d4a577c8545b3b05d9e52daf65e9598c50db2c4e",
+      "size_bytes": 2861,
+      "word_count": 417,
+      "ingested_at": "2026-04-21T12:56:10.423746"
+    },
+    {
+      "path": "articles/conde-nast-traveler-best-time-to-visit-maldives.md",
+      "filename": "conde-nast-traveler-best-time-to-visit-maldives.md",
+      "category": "planning",
+      "hash": "5f6bb6cf5c96f5a1e2453416202b3a0d1e6d1ae796ed8cd2634d974d226ba18e",
+      "size_bytes": 6153,
+      "word_count": 915,
+      "ingested_at": "2026-04-21T12:56:10.423974"
+    },
+    {
+      "path": "articles/culture-trip-maldives-guides-and-trips.md",
+      "filename": "culture-trip-maldives-guides-and-trips.md",
+      "category": "diving",
+      "hash": "0688fe4b1413d89976e2363b81059ed5c75e09032bbe829f6a8be0c8b61de44e",
+      "size_bytes": 2095,
+      "word_count": 307,
+      "ingested_at": "2026-04-21T12:56:10.424155"
+    },
+    {
+      "path": "articles/dreaming-of-maldives-guesthouses.md",
+      "filename": "dreaming-of-maldives-guesthouses.md",
+      "category": "planning",
+      "hash": "efb293e3adf587a6e793c5186ae4c9a93d80ae47f47a022c96bfabd74b526b2e",
+      "size_bytes": 2413,
+      "word_count": 341,
+      "ingested_at": "2026-04-21T12:56:10.424345"
+    },
+    {
+      "path": "articles/earthcheck-four-seasons-maldives-sustainable-luxury.md",
+      "filename": "earthcheck-four-seasons-maldives-sustainable-luxury.md",
+      "category": "planning",
+      "hash": "d722efaaa483e40b3899564dbe1e19b88e63968b265ae39909a70f751b89c125",
+      "size_bytes": 2676,
+      "word_count": 355,
+      "ingested_at": "2026-04-21T12:56:10.424528"
+    },
+    {
+      "path": "articles/enchanting-travels-best-time-to-visit-maldives-by-month.md",
+      "filename": "enchanting-travels-best-time-to-visit-maldives-by-month.md",
+      "category": "planning",
+      "hash": "060a20a5d5ffc533197fabc17fa2a398c6510165a7775971f6185ba16a0d54ae",
+      "size_bytes": 6757,
+      "word_count": 988,
+      "ingested_at": "2026-04-21T12:56:10.424761"
+    },
+    {
+      "path": "articles/etravelsim-most-affordable-hotels-maldives.md",
+      "filename": "etravelsim-most-affordable-hotels-maldives.md",
+      "category": "planning",
+      "hash": "14b2c5346641e452f7da359e521c4eb09d3f2074d84a69413d2289a4c63730cf",
+      "size_bytes": 2799,
+      "word_count": 361,
+      "ingested_at": "2026-04-21T12:56:10.424977"
+    },
+    {
+      "path": "articles/fao-reef-fish-resources-survey-maldives.md",
+      "filename": "fao-reef-fish-resources-survey-maldives.md",
+      "category": "atolls",
+      "hash": "cb420e3f49fcb98b300569cb9f0a2dea835996a0a9ad9907782b206a25dbf8f2",
+      "size_bytes": 1324,
+      "word_count": 193,
+      "ingested_at": "2026-04-21T12:56:10.425158"
+    },
+    {
+      "path": "articles/forbes-travel-guide-maldives-luxury-hotels.md",
+      "filename": "forbes-travel-guide-maldives-luxury-hotels.md",
+      "category": "resorts",
+      "hash": "b7f429f5b1ca517f2a2f6cedc5ce6e7987b57240658d95c9e0ce8e86d864a74f",
+      "size_bytes": 2396,
+      "word_count": 345,
+      "ingested_at": "2026-04-21T12:56:10.425345"
+    },
+    {
+      "path": "articles/goway-best-time-to-visit-maldives.md",
+      "filename": "goway-best-time-to-visit-maldives.md",
+      "category": "planning",
+      "hash": "6100faae74e0dcf78e45aedbb456c03b2557912ecc361027dd3568ea164251ae",
+      "size_bytes": 3441,
+      "word_count": 513,
+      "ingested_at": "2026-04-21T12:56:10.425533"
+    },
+    {
+      "path": "articles/green-globe-maldives-certification-members.md",
+      "filename": "green-globe-maldives-certification-members.md",
+      "category": "resorts",
+      "hash": "6907ce4568e3be7e8249cffa6b77e579616e52ea02a0bbbf5548df8f9f398207",
+      "size_bytes": 2560,
+      "word_count": 374,
+      "ingested_at": "2026-04-21T12:56:10.425725"
+    },
+    {
+      "path": "articles/iucn-coral-bleaching-maldives-2016.md",
+      "filename": "iucn-coral-bleaching-maldives-2016.md",
+      "category": "ecology",
+      "hash": "9ddc29f6a2916e0df054bd5f51eddbb3a0c59d294503adfc6cb59f1adcfc75c3",
+      "size_bytes": 1849,
+      "word_count": 232,
+      "ingested_at": "2026-04-21T12:56:10.425900"
+    },
+    {
+      "path": "articles/lonely-planet-maldives-destination-guide.md",
+      "filename": "lonely-planet-maldives-destination-guide.md",
+      "category": "diving",
+      "hash": "e8d93fbe77c1b85258ae2c970c30854f9cf67a22a0ff34e774487a5fb80e69e3",
+      "size_bytes": 1603,
+      "word_count": 233,
+      "ingested_at": "2026-04-21T12:56:10.426074"
+    },
+    {
+      "path": "articles/maldives-airport-velana-international-airport.md",
+      "filename": "maldives-airport-velana-international-airport.md",
+      "category": "diving",
+      "hash": "b1b596658975dbb4371bec28960ad9969748efdda976faf5038b18402a0268b7",
+      "size_bytes": 1109,
+      "word_count": 137,
+      "ingested_at": "2026-04-21T12:56:10.426249"
+    },
+    {
+      "path": "articles/maldives-complete-travel-guide.md",
+      "filename": "maldives-complete-travel-guide.md",
+      "category": "diving",
+      "hash": "18f4f2c0a6672caea9a45f10ab02874575782ae923d8507ccd2fb67ef444d998",
+      "size_bytes": 1607,
+      "word_count": 225,
+      "ingested_at": "2026-04-21T12:56:10.426427"
+    },
+    {
+      "path": "articles/maldives-how-to-dress-in-the-maldives.md",
+      "filename": "maldives-how-to-dress-in-the-maldives.md",
+      "category": "diving",
+      "hash": "80c86a493b8180173632bb82b49fcd098d43ca5686c4c411cf90cde9badf4f04",
+      "size_bytes": 1573,
+      "word_count": 189,
+      "ingested_at": "2026-04-21T12:56:10.426592"
+    },
+    {
+      "path": "articles/maldives-things-to-pack-for-the-maldives.md",
+      "filename": "maldives-things-to-pack-for-the-maldives.md",
+      "category": "practical",
+      "hash": "7711fa4abcc0f85829da99fbf82cd38f137f05721006359ed4960a4597d0012c",
+      "size_bytes": 1422,
+      "word_count": 167,
+      "ingested_at": "2026-04-21T12:56:10.427118"
+    },
+    {
+      "path": "articles/maldives-whale-shark-research-programme-home.md",
+      "filename": "maldives-whale-shark-research-programme-home.md",
+      "category": "ecology",
+      "hash": "a12f38117bd7aefcfc92ff43d7b0ced6f0bada4c56f28f232c5ca97d4a7e3529",
+      "size_bytes": 1520,
+      "word_count": 189,
+      "ingested_at": "2026-04-21T12:56:10.427292"
+    },
+    {
+      "path": "articles/maldives-whale-shark-research-programme-research-overview.md",
+      "filename": "maldives-whale-shark-research-programme-research-overview.md",
+      "category": "ecology",
+      "hash": "e25b606d0efd769161cdb4dfaa81350cea9dfe43387cdd1eb954300413eb06ef",
+      "size_bytes": 1494,
+      "word_count": 203,
+      "ingested_at": "2026-04-21T12:56:10.427444"
+    },
+    {
+      "path": "articles/manta-trust-armstrong-et-al-2021-hanifaru-bay.md",
+      "filename": "manta-trust-armstrong-et-al-2021-hanifaru-bay.md",
+      "category": "ecology",
+      "hash": "4c70a8116cf7f261a2946975cc222f066aaaf6a5bc6aa0308007e135ea0cb093",
+      "size_bytes": 1455,
+      "word_count": 203,
+      "ingested_at": "2026-04-21T12:56:10.427761"
+    },
+    {
+      "path": "articles/manta-trust-home.md",
+      "filename": "manta-trust-home.md",
+      "category": "ecology",
+      "hash": "0fbc14e32a1e12a3c4b1da61affd65cab7b98eaeb8d11e8189c9fa729fc042da",
+      "size_bytes": 1275,
+      "word_count": 177,
+      "ingested_at": "2026-04-21T12:56:10.427861"
+    },
+    {
+      "path": "articles/manta-trust-learning-about-zooplankton-hanifaru-bay.md",
+      "filename": "manta-trust-learning-about-zooplankton-hanifaru-bay.md",
+      "category": "ecology",
+      "hash": "bb51d2c69357af1dc1b90fc111f5552dbd34e04aa199a235d98f860a2fddac2e",
+      "size_bytes": 1571,
+      "word_count": 208,
+      "ingested_at": "2026-04-21T12:56:10.428069"
+    },
+    {
+      "path": "articles/mw-tourism-best-time-to-visit-maldives-seasonal-guide.md",
+      "filename": "mw-tourism-best-time-to-visit-maldives-seasonal-guide.md",
+      "category": "planning",
+      "hash": "a9302f3cae9484d18d47d18dc7982495ed1811412d35ca53a13cde18b07ad580",
+      "size_bytes": 3757,
+      "word_count": 549,
+      "ingested_at": "2026-04-21T12:56:10.428332"
+    },
+    {
+      "path": "articles/national-geographic-maldives-travel-guide.md",
+      "filename": "national-geographic-maldives-travel-guide.md",
+      "category": "diving",
+      "hash": "322bf98a64a9eb0fd7ce85cb198e61486653f3185d8cb89b44d92b3fbf3fbe3c",
+      "size_bytes": 1379,
+      "word_count": 187,
+      "ingested_at": "2026-04-21T12:56:10.428554"
+    },
+    {
+      "path": "articles/nature-coastal-flooding-and-sea-level-rise-allowances-atoll-island.md",
+      "filename": "nature-coastal-flooding-and-sea-level-rise-allowances-atoll-island.md",
+      "category": "atolls",
+      "hash": "2911c71ff670e4c8d6fc1df6e56f647e1c310639ceb661d6baa5650be81eb091",
+      "size_bytes": 1823,
+      "word_count": 256,
+      "ingested_at": "2026-04-21T12:56:10.428742"
+    },
+    {
+      "path": "articles/noaa-coral-reef-watch-global-coral-bleaching-2014-2017-status.md",
+      "filename": "noaa-coral-reef-watch-global-coral-bleaching-2014-2017-status.md",
+      "category": "ecology",
+      "hash": "e5e4fd596feeb5cc00a50951538474c691ee1b778c178bb86f47174fa9f82690",
+      "size_bytes": 2083,
+      "word_count": 284,
+      "ingested_at": "2026-04-21T12:56:10.428927"
+    },
+    {
+      "path": "articles/noaa-coral-reef-watch-maldives-gauge.md",
+      "filename": "noaa-coral-reef-watch-maldives-gauge.md",
+      "category": "ecology",
+      "hash": "77ffc4542e1a8a6a474fd8544da4ed5adf38e0724e3ab12d2a3327ac0154bd61",
+      "size_bytes": 1558,
+      "word_count": 219,
+      "ingested_at": "2026-04-21T12:56:10.429098"
+    },
+    {
+      "path": "articles/noaa-fourth-global-coral-bleaching-event.md",
+      "filename": "noaa-fourth-global-coral-bleaching-event.md",
+      "category": "ecology",
+      "hash": "4816717c91aae8b33618f61211059a6820e6e692f819dc9a03a0d12243727ff5",
+      "size_bytes": 1615,
+      "word_count": 213,
+      "ingested_at": "2026-04-21T12:56:10.429240"
+    },
+    {
+      "path": "articles/oaga-resorts-best-season-to-travel-maldives.md",
+      "filename": "oaga-resorts-best-season-to-travel-maldives.md",
+      "category": "planning",
+      "hash": "e6850b8ff79e7833051eb45a564ff43f808abf1dacc8d6058b0c20b09d0db85f",
+      "size_bytes": 2329,
+      "word_count": 337,
+      "ingested_at": "2026-04-21T12:56:10.429418"
+    },
+    {
+      "path": "articles/padi-diving-in-the-maldives.md",
+      "filename": "padi-diving-in-the-maldives.md",
+      "category": "ecology",
+      "hash": "ceea45581247d81be6b7db0c19a5792b7cf16d2361c1cfa6c6a48a142a271f04",
+      "size_bytes": 2553,
+      "word_count": 389,
+      "ingested_at": "2026-04-21T12:56:10.429617"
+    },
+    {
+      "path": "articles/pickyourtrail-maldives-tourism-guide.md",
+      "filename": "pickyourtrail-maldives-tourism-guide.md",
+      "category": "planning",
+      "hash": "3f869cb67b5b00994e0d8808ee7d47323ebedb76b86bd1d82a99a21178fd7692",
+      "size_bytes": 6495,
+      "word_count": 939,
+      "ingested_at": "2026-04-21T12:56:10.430063"
+    },
+    {
+      "path": "articles/pmc-patterns-of-change-coral-reef-communities-maldivian-atoll.md",
+      "filename": "pmc-patterns-of-change-coral-reef-communities-maldivian-atoll.md",
+      "category": "ecology",
+      "hash": "02860a9b2ca64d26cc47a402bae642b1e6706a90f3bb6f47d47cffd5da0e2c62",
+      "size_bytes": 1334,
+      "word_count": 185,
+      "ingested_at": "2026-04-21T12:56:10.430402"
+    },
+    {
+      "path": "articles/responsible-vacation-best-time-to-visit-maldives.md",
+      "filename": "responsible-vacation-best-time-to-visit-maldives.md",
+      "category": "planning",
+      "hash": "ffd63646a56c947ce436741e95e8bd4407c63665d64357c2771db38317ff2368",
+      "size_bytes": 8290,
+      "word_count": 1305,
+      "ingested_at": "2026-04-21T12:56:10.430712"
+    },
+    {
+      "path": "articles/rough-guides-maldives-travel-guide.md",
+      "filename": "rough-guides-maldives-travel-guide.md",
+      "category": "atolls",
+      "hash": "b5c046ad34a089b1bc79a66c6ee3e8157225c8076095a2154cf9ef8dea4ed73f",
+      "size_bytes": 1266,
+      "word_count": 178,
+      "ingested_at": "2026-04-21T12:56:10.430907"
+    },
+    {
+      "path": "articles/sciencedirect-coral-resilience-maldives-19-years.md",
+      "filename": "sciencedirect-coral-resilience-maldives-19-years.md",
+      "category": "ecology",
+      "hash": "8e7c53739755452bb5957f5513877792fb22931b76d3c6a4d1202266d201ec07",
+      "size_bytes": 1468,
+      "word_count": 194,
+      "ingested_at": "2026-04-21T12:56:10.431016"
+    },
+    {
+      "path": "articles/scuba-diving-guide-to-maldives.md",
+      "filename": "scuba-diving-guide-to-maldives.md",
+      "category": "diving",
+      "hash": "7f8e208c4fe96d9eaf3112981d3a0106716cbd75f2f0c96f28cd5a23548bf443",
+      "size_bytes": 2435,
+      "word_count": 356,
+      "ingested_at": "2026-04-21T12:56:10.431208"
+    },
+    {
+      "path": "articles/secret-paradise-maldives-top-10-travel-questions.md",
+      "filename": "secret-paradise-maldives-top-10-travel-questions.md",
+      "category": "diving",
+      "hash": "6a4dcc961e7f554ab0ba1244ad97189936d5b6a7fd75691b8800973377ab7e12",
+      "size_bytes": 2030,
+      "word_count": 249,
+      "ingested_at": "2026-04-21T12:56:10.431651"
+    },
+    {
+      "path": "articles/six-senses-laamu-sustainability.md",
+      "filename": "six-senses-laamu-sustainability.md",
+      "category": "resorts",
+      "hash": "b25c672e7924d0640c2aedbc992a38f210706c5576d56c10927f5bb7df2f96e5",
+      "size_bytes": 2388,
+      "word_count": 323,
+      "ingested_at": "2026-04-21T12:56:10.431839"
+    },
+    {
+      "path": "articles/smithsonian-status-coral-reef-fishery-central-maldives.md",
+      "filename": "smithsonian-status-coral-reef-fishery-central-maldives.md",
+      "category": "ecology",
+      "hash": "e5bc9162d84f00bd83d8caae51fd547e5c9c4bd8a90a46315f7af4c8dac8e912",
+      "size_bytes": 1447,
+      "word_count": 187,
+      "ingested_at": "2026-04-21T12:56:10.431947"
+    },
+    {
+      "path": "articles/soneva-sustainable-hospitality-alliance-membership.md",
+      "filename": "soneva-sustainable-hospitality-alliance-membership.md",
+      "category": "resorts",
+      "hash": "7f9cffca2584a37f24341ec5b544d642b1410584d89e4e4b100945128858cdc2",
+      "size_bytes": 1573,
+      "word_count": 210,
+      "ingested_at": "2026-04-21T12:56:10.432168"
+    },
+    {
+      "path": "articles/travel-and-leisure-best-all-inclusive-resorts-maldives.md",
+      "filename": "travel-and-leisure-best-all-inclusive-resorts-maldives.md",
+      "category": "resorts",
+      "hash": "2311746ae5efb5e1cae131b54565e62045888a764c49d7f095741e487383a437",
+      "size_bytes": 2538,
+      "word_count": 340,
+      "ingested_at": "2026-04-21T12:56:10.432525"
+    },
+    {
+      "path": "articles/travel-and-leisure-best-time-to-visit-maldives.md",
+      "filename": "travel-and-leisure-best-time-to-visit-maldives.md",
+      "category": "planning",
+      "hash": "f2c3a15cd2fa33e488b6e15d4129f681ae8fd28f8a76adffcf2ee2c6f6b7b5df",
+      "size_bytes": 5158,
+      "word_count": 757,
+      "ingested_at": "2026-04-21T12:56:10.432727"
+    },
+    {
+      "path": "articles/tripadvisor-cheap-resorts-maldives.md",
+      "filename": "tripadvisor-cheap-resorts-maldives.md",
+      "category": "resorts",
+      "hash": "fc89c0076981ba873119e5f8adb41c64a35916341e4642101b16cdfe63046923",
+      "size_bytes": 1726,
+      "word_count": 239,
+      "ingested_at": "2026-04-21T12:56:10.432950"
+    },
+    {
+      "path": "articles/tripadvisor-maldives-forum.md",
+      "filename": "tripadvisor-maldives-forum.md",
+      "category": "diving",
+      "hash": "e66152529a20da1db6c2eb08ec3f241f3c251655c56b458eb537a0ffcae9c6db",
+      "size_bytes": 1774,
+      "word_count": 241,
+      "ingested_at": "2026-04-21T12:56:10.433061"
+    },
+    {
+      "path": "articles/undp-maldives-climate-change-adaptation.md",
+      "filename": "undp-maldives-climate-change-adaptation.md",
+      "category": "ecology",
+      "hash": "b023ffe8136ebbdcfe9b0703ef5a077d4ec977524b9d9db685e5d2752019b5a6",
+      "size_bytes": 1613,
+      "word_count": 218,
+      "ingested_at": "2026-04-21T12:56:10.433235"
+    },
+    {
+      "path": "articles/unesco-baa-atoll-biosphere-reserve.md",
+      "filename": "unesco-baa-atoll-biosphere-reserve.md",
+      "category": "atolls",
+      "hash": "61047f097857e877429ca3ba53a919ce7cfd2244cd550e0ccca7976f9828b1bc",
+      "size_bytes": 2099,
+      "word_count": 316,
+      "ingested_at": "2026-04-21T12:56:10.433420"
+    },
+    {
+      "path": "articles/visit-maldives-baa-atoll-biosphere-reserve.md",
+      "filename": "visit-maldives-baa-atoll-biosphere-reserve.md",
+      "category": "atolls",
+      "hash": "8afd1102ccbb04fed9eeed0cdb490ac563837124e858ee3e7c25e20767af1ade",
+      "size_bytes": 2102,
+      "word_count": 282,
+      "ingested_at": "2026-04-21T12:56:10.433560"
+    },
+    {
+      "path": "articles/visit-maldives-connectivity.md",
+      "filename": "visit-maldives-connectivity.md",
+      "category": "diving",
+      "hash": "86e3677bc5604f7ccffc8d148e57e2127479df47f90d68fe1f6f79a57544a98e",
+      "size_bytes": 1375,
+      "word_count": 175,
+      "ingested_at": "2026-04-21T12:56:10.433739"
+    },
+    {
+      "path": "articles/visit-maldives-culture-and-traditions.md",
+      "filename": "visit-maldives-culture-and-traditions.md",
+      "category": "practical",
+      "hash": "72ccd512b1a9201df803205f0e1548d8e1913fd136bac19f9e4f0e1768f3e3dd",
+      "size_bytes": 1392,
+      "word_count": 186,
+      "ingested_at": "2026-04-21T12:56:10.433916"
+    },
+    {
+      "path": "articles/visit-maldives-eat-like-a-local.md",
+      "filename": "visit-maldives-eat-like-a-local.md",
+      "category": "resorts",
+      "hash": "318a75e5bca19a2032fd155778663737ac188b7a5e661c097a50034491246be8",
+      "size_bytes": 1271,
+      "word_count": 162,
+      "ingested_at": "2026-04-21T12:56:10.434019"
+    },
+    {
+      "path": "articles/visit-maldives-encounters-with-the-majestic-manta-rays.md",
+      "filename": "visit-maldives-encounters-with-the-majestic-manta-rays.md",
+      "category": "ecology",
+      "hash": "b0b6b308186fd16881546aee63720e9e3a7a56a5aa22eb336c65a6807c69ae15",
+      "size_bytes": 1591,
+      "word_count": 218,
+      "ingested_at": "2026-04-21T12:56:10.434124"
+    },
+    {
+      "path": "articles/visit-maldives-guesthouses-directory.md",
+      "filename": "visit-maldives-guesthouses-directory.md",
+      "category": "resorts",
+      "hash": "1de90fe3fc36ef3861e00830fcda0ad30d8b8ab3aba2686dd782df9b4e22bcb0",
+      "size_bytes": 1021,
+      "word_count": 129,
+      "ingested_at": "2026-04-21T12:56:10.434291"
+    },
+    {
+      "path": "articles/visit-maldives-magic-of-maldivian-hospitality.md",
+      "filename": "visit-maldives-magic-of-maldivian-hospitality.md",
+      "category": "resorts",
+      "hash": "49de3fdf56a23b81e236d6892c3664824ad58ca46eb4918cc0274f8395ad4110",
+      "size_bytes": 1431,
+      "word_count": 177,
+      "ingested_at": "2026-04-21T12:56:10.434483"
+    },
+    {
+      "path": "articles/visit-maldives-maldivian-cuisine-rich-tastes-and-flavors.md",
+      "filename": "visit-maldives-maldivian-cuisine-rich-tastes-and-flavors.md",
+      "category": "practical",
+      "hash": "cbc514eae0f6606b268875ba2746c925393ee0f8b0ecb7ab931da5cffdd74310",
+      "size_bytes": 1490,
+      "word_count": 187,
+      "ingested_at": "2026-04-21T12:56:10.434593"
+    },
+    {
+      "path": "articles/visit-maldives-must-try-maldivian-cuisine.md",
+      "filename": "visit-maldives-must-try-maldivian-cuisine.md",
+      "category": "practical",
+      "hash": "95a05a36b0aca4f398c9225f96d6257d6b3bff28a5665d773738afc94399c76f",
+      "size_bytes": 1780,
+      "word_count": 224,
+      "ingested_at": "2026-04-21T12:56:10.434764"
+    },
+    {
+      "path": "articles/visit-maldives-official-tourism-homepage.md",
+      "filename": "visit-maldives-official-tourism-homepage.md",
+      "category": "diving",
+      "hash": "d2294b4459dd42c0ac0ab14e88996172893c4b74005ca9a8c1bcde919bfa3d07",
+      "size_bytes": 5896,
+      "word_count": 896,
+      "ingested_at": "2026-04-21T12:56:10.434994"
+    },
+    {
+      "path": "articles/visit-maldives-qa-with-mwsrp.md",
+      "filename": "visit-maldives-qa-with-mwsrp.md",
+      "category": "ecology",
+      "hash": "c229f87fd2998aa13180c2eb460caeb07b105102e36a25fccb642080ebe91005",
+      "size_bytes": 1886,
+      "word_count": 278,
+      "ingested_at": "2026-04-21T12:56:10.435102"
+    },
+    {
+      "path": "articles/visit-maldives-radisson-blu-resort-maldives-transfer.md",
+      "filename": "visit-maldives-radisson-blu-resort-maldives-transfer.md",
+      "category": "resorts",
+      "hash": "b4bdac5041701da75caffa0f6f7e65cdbd7ad6996815bc99df223f89d494fdd7",
+      "size_bytes": 1101,
+      "word_count": 136,
+      "ingested_at": "2026-04-21T12:56:10.435276"
+    },
+    {
+      "path": "articles/visit-maldives-travel-information.md",
+      "filename": "visit-maldives-travel-information.md",
+      "category": "diving",
+      "hash": "5b5be0f91db3c7398d8a8cdec0410147b04ac5a543c2131df1f76a15aeb89235",
+      "size_bytes": 1421,
+      "word_count": 179,
+      "ingested_at": "2026-04-21T12:56:10.435452"
+    },
+    {
+      "path": "articles/wandering-redhead-maldives-all-budgets.md",
+      "filename": "wandering-redhead-maldives-all-budgets.md",
+      "category": "planning",
+      "hash": "5020b88c6266e94be4955f793239422686118887b6aaea9738c4ffbb864cd3f6",
+      "size_bytes": 2295,
+      "word_count": 330,
+      "ingested_at": "2026-04-21T12:56:10.435670"
+    },
+    {
+      "path": "articles/whimsy-soul-how-to-visit-the-maldives.md",
+      "filename": "whimsy-soul-how-to-visit-the-maldives.md",
+      "category": "planning",
+      "hash": "246bb545b2f5352233dc1f07ae6839547c612ba6339a1ebeb4fc6522021991ad",
+      "size_bytes": 5699,
+      "word_count": 908,
+      "ingested_at": "2026-04-21T12:56:10.436017"
+    },
+    {
+      "path": "articles/world-bank-maldives-climate-risk-country-profile.md",
+      "filename": "world-bank-maldives-climate-risk-country-profile.md",
+      "category": "ecology",
+      "hash": "f58953058aacee3a11e53fd9a56739978b156aab956b8478b41200461df5b391",
+      "size_bytes": 2119,
+      "word_count": 264,
+      "ingested_at": "2026-04-21T12:56:10.436204"
+    },
+    {
+      "path": "articles/world-bank-quantitative-risk-assessment-sea-level-rise-coastal-flooding-maldives.md",
+      "filename": "world-bank-quantitative-risk-assessment-sea-level-rise-coastal-flooding-maldives.md",
+      "category": "ecology",
+      "hash": "520bf7ed6973ce199816f765da8e0c3b64453a5e7b29629f2fb5e0d7bca163e8",
+      "size_bytes": 1990,
+      "word_count": 265,
+      "ingested_at": "2026-04-21T12:56:10.436372"
+    },
+    {
+      "path": "articles/world-bank-roadmap-fostering-coral-reef-resilience-maldives.md",
+      "filename": "world-bank-roadmap-fostering-coral-reef-resilience-maldives.md",
+      "category": "ecology",
+      "hash": "7154a0dd258532d356ee6ed8bd180cf0667a66baa4b9f683624d5752bb5583d8",
+      "size_bytes": 1843,
+      "word_count": 224,
+      "ingested_at": "2026-04-21T12:56:10.436913"
+    }
+  ]
+}
